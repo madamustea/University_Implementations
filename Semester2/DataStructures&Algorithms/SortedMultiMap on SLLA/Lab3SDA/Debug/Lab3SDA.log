@@ -1,0 +1,9 @@
+﻿  ExtendedTest.cpp
+C:\Users\MADA\source\repos\Lab3SDA\Lab3SDA\ExtendedTest.cpp(214,24): warning C4101: 'ex': unreferenced local variable
+C:\Users\MADA\source\repos\Lab3SDA\Lab3SDA\ExtendedTest.cpp(221,24): warning C4101: 'ex': unreferenced local variable
+  SMMIterator.cpp
+  ShortTest.cpp
+  SortedMultiMap.cpp
+C:\Users\MADA\source\repos\Lab3SDA\Lab3SDA\SortedMultiMap.cpp(347,27): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Lab3SDA.vcxproj -> C:\Users\MADA\source\repos\Lab3SDA\Debug\Lab3SDA.exe
