@@ -1,0 +1,10 @@
+C:\Users\MADA\source\repos\DBMSL1\DBMSL1\bin\Debug\DBMSL1.exe.config
+C:\Users\MADA\source\repos\DBMSL1\DBMSL1\bin\Debug\DBMSL1.exe
+C:\Users\MADA\source\repos\DBMSL1\DBMSL1\bin\Debug\DBMSL1.pdb
+C:\Users\MADA\source\repos\DBMSL1\DBMSL1\obj\Debug\DBMSL1.csprojAssemblyReference.cache
+C:\Users\MADA\source\repos\DBMSL1\DBMSL1\obj\Debug\DBMSL1.Form1.resources
+C:\Users\MADA\source\repos\DBMSL1\DBMSL1\obj\Debug\DBMSL1.Properties.Resources.resources
+C:\Users\MADA\source\repos\DBMSL1\DBMSL1\obj\Debug\DBMSL1.csproj.GenerateResource.cache
+C:\Users\MADA\source\repos\DBMSL1\DBMSL1\obj\Debug\DBMSL1.csproj.CoreCompileInputs.cache
+C:\Users\MADA\source\repos\DBMSL1\DBMSL1\obj\Debug\DBMSL1.exe
+C:\Users\MADA\source\repos\DBMSL1\DBMSL1\obj\Debug\DBMSL1.pdb
