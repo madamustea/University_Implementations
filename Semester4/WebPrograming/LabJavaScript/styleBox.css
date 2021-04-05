@@ -1,0 +1,16 @@
+#countries,#cities{
+    
+    padding: 8px 12px;
+    color:#eee;
+    background-color: #474242;
+    border: 2.5px solid rgb(150, 33, 101);
+    border-radius: 5px;
+    
+}
+#countries:hover{
+    border: 2.5px solid rgb(201, 115, 182);
+}
+#cities:hover{
+    border: 2.5px solid rgb(201, 115, 182);
+}
+
