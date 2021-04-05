@@ -1,0 +1,2 @@
+C:\\Users\\MADA\\source\\repos\\Lab12OOP\\Lab12OOP\\File.txt
+C:\\Users\\MADA\\source\\repos\\Lab12OOP\\Lab12OOP\\Mylist.csv
