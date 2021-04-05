@@ -1,3 +1,0 @@
-3,aaaa,34,sasa
-4,aaaa,30,ddd
-5,dddd,2,sjnd
